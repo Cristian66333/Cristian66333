@@ -52,6 +52,22 @@ Team Collaboration, Analytical Thinking, Problem Solving
 
 ---
 
+## 🚀 Projects
+
+### [CLARIFIER AI Model (NATO Collaboration)](private project)
+Developed and tested machine learning models under NATO's Science for Peace initiative.
+
+### [Agricultic Platform](https://github.com/Cristian66333/InterfazImageProcessing/tree/main/src)
+Flask + Angular web app for agricultural prediction and AI interaction. 50+ users engaged in real time.
+
+### [GraphQL songs](https://github.com/yourrepo](https://github.com/Cristian66333/songsGraphQl)
+Using graphql to manage a songs dataset.
+
+### [Emprendimientos UPTC](https://github.com/Cristian66333/emprendimientos_uptc)
+A web for entrepreneurships management.
+
+---
+
 ## 💼 Experience
 
 ### Full-Time Professor  
@@ -107,7 +123,22 @@ Team Collaboration, Analytical Thinking, Problem Solving
   Coordinated a university-wide event on XR technologies.
 
 ---
+## 📄 Publications
 
+- C. Suancha, O. Montanez, F. Medina, E. A. Fernandez and S. Cespedes, "True Rays Model Integration in OMNeT++ for IIoT Network Planning in Underground Mines," 2024 IEEE 1st Latin American Conference on Antennas and Propagation (LACAP), Cartagena de Indias, Colombia, 2024, pp. 1-2, doi: 10.1109/LACAP63752.2024.10876249.
+- F. Medina, O. Montañez, C. Suancha, E. Avendaño and S. Céspedes, "Evaluating Propagation Models for IIoT in Underground Mining: an Experimental Comparative Study in Underground Coal Mines," 2024 IEEE ANDESCON, Cusco, Peru, 2024, pp. 1-6, doi: 10.1109/ANDESCON61840.2024.10755861.
+- C. C. Suancha, M. J. Suarez and F. A. Besoain, "Implementation of Alpha-Beta Pruning and Transposition Tables on Checkers Game," in IEEE Access, vol. 12, pp. 46636-46645, 2024, doi: 10.1109/ACCESS.2024.3381958.
+
+---
+## 🗺️ Learning Goals
+
+- Contribute to open source in ML & DL.
+- Learn more languages
+- Master Kubernetes & Terraform
+- Master on Data Science with machine learning
+
+
+---
 ## 🔗 Portfolio Links
 
 - [Certifications and Supporting Docs (Drive)](https://drive.google.com/file/d/14xzZyLt98v_myxMsldDyaFr6iYHCp1Ok/view?usp=drive_link)  
