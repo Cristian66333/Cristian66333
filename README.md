@@ -1,16 +1,117 @@
-## Hi there 👋
+# Cristian Camilo Suancha Álvarez  
+**Software Engineer | AI Researcher | Educator**  
+📧 cristiansuancha1@gmail.com  
+🌍 [LinkedIn](http://www.linkedin.com/in/cristian-camilo-suancha-alvarez-8bb89523b) • [GitHub](https://github.com/Cristian66333)
 
-<!--
-**Cristian66333/Cristian66333** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🧑‍💼 About Me
+I am a dedicated and adaptable software engineer with a strong commitment to delivering high-quality work and thriving in collaborative environments. My expertise spans software development, AI, and education. I'm passionate about projects that emphasize innovation, continuous learning, and digital transformation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🎓 Education
+
+- **Master's Degree in Software Engineering and Informatic Systems** (Ongoing)  
+  *International University of La Rioja*
+
+- **B.Sc. in Computer Science** (2019 – 2023)  
+  *Pedagogical and Technological University of Colombia*
+
+- **Extended Realities Camp** (2023)  
+  *Andes University*
+
+---
+
+## 🛠️ Skills
+
+**Languages & Frameworks:**  
+Python, Java, C++, .NET, Flask, Spring, Angular
+
+**Cloud & DevOps:**  
+AWS (EC2, S3, RDS, Lambda), Docker, CI/CD
+
+**Testing Tools:**  
+JUnit, Mockito
+
+**Databases:**  
+SQL, NoSQL, GraphQL
+
+**UX/UI:**  
+Responsive Design, Usability Testing, Accessibility
+
+**Practices:**  
+Agile (SCRUM), Version Control (Git)
+
+**Soft Skills:**  
+Team Collaboration, Analytical Thinking, Problem Solving
+
+**Languages:**  
+- Spanish (Native)  
+- English (B2)
+
+---
+
+## 💼 Experience
+
+### Full-Time Professor  
+**Universidad Pedagógica y Tecnológica de Colombia**  
+*2024 – Present*  
+- Teaching: Introduction to Engineering, Object-Oriented Programming, and Artificial Intelligence.
+
+### AI Engineer & Young Researcher  
+**NATO & UPTC**  
+*2023 – 2024*  
+- Developer and tester for AI models in the CLARIFIER project (NATO Science for Peace program).
+
+### Web Developer  
+**UPTC (GALASH Group)**  
+*2023 – 2024*  
+- Developed Spring/Angular-based web solutions for academic research.
+
+### Web Developer  
+**Agricultic Project**  
+*2022 – 2023*  
+- Built a Flask + Angular web platform enabling AI model interaction for 50+ users.
+
+### Assistant Programmer  
+**CIM Ingeniería**  
+*2022*  
+- Developed predictive algorithms (80%+ accuracy) and data queries for analytics tasks.
+
+---
+
+## 🧾 Certifications
+
+- [SCRUM Fundamentals](https://www.scrumstudy.com/certification/verify?type=SFC&number=990534)  
+- [Six Sigma Yellow Belt](https://www.6sigmastudy.com/certification/verify?type=SSYB&number=897544)  
+- English Dot Works  
+- Competitive Programming  
+- ICP Developer  
+- Backend Development with Java  
+
+---
+
+## 📢 Activities
+
+- **Workshop Facilitator – FLISOL (2024, 2025)**  
+  Led sessions on Extended Reality and Free Software Installation.
+
+- **Scientific Speaker**  
+  Presented at ANDESCON, LACAP, and DECISIONING conferences.
+
+- **Teaching Assistant – Advanced Programming**  
+  Supported student learning in advanced software engineering courses.
+
+- **Event Organizer – Extended Realities Week, UPTC (2024)**  
+  Coordinated a university-wide event on XR technologies.
+
+---
+
+## 🔗 Portfolio Links
+
+- [Certifications and Supporting Docs (Drive)](https://drive.google.com/file/d/14xzZyLt98v_myxMsldDyaFr6iYHCp1Ok/view?usp=drive_link)  
+- [More Certifications (PDF)](https://egg-csv-bulk-certificates-prod.s3.amazonaws.com/certificates/66c4eb8cdc7bbffc897ab229-1745261906260.pdf)
+
+---
+
