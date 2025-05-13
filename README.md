@@ -1,4 +1,4 @@
-# Cristian Camilo Suancha Álvarez  
+# Cristian Suancha  
 **Software Engineer | AI Researcher | Educator**  
 📧 cristiansuancha1@gmail.com  
 🌍 [LinkedIn](http://www.linkedin.com/in/cristian-camilo-suancha-alvarez-8bb89523b) • [GitHub](https://github.com/Cristian66333)
